@@ -1,9 +1,9 @@
 package principal {
 
-import objetos.Carro;
-import objetos.Livro;
-import objetos.Pessoa;
-import objetos.Camisa;
+import atividade.Carro;
+import atividade.Livro;
+import atividade.Pessoa;
+import atividade.Camisa;
 
 
 public static void main(String[] args){
